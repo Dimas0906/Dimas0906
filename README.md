@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Interaktiv** as a Quality Assurance
 - 👯 I’m looking to collaborate on any project related to webapp
-- 🌱 I’m currently learning **Quality Engineer & UI/UX**
+- 🌱 I’m currently learning **Quality Engineer, UI/UX and WebGL(Three.js)**
 - 📫 How to reach me **dimasmaulana0906@gmail.com**
 
 <br />
